@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabContextSwitch", "TabContextSwitch\TabContextSwitch.csproj", "{3B2140DD-84AF-44A9-8C24-8A91DC5FCB91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabContexSwitch.Tests", "TabContexSwitch.Tests\TabContexSwitch.Tests.csproj", "{067456C0-086C-46A8-B37F-1405717B7BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B2140DD-84AF-44A9-8C24-8A91DC5FCB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2140DD-84AF-44A9-8C24-8A91DC5FCB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2140DD-84AF-44A9-8C24-8A91DC5FCB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2140DD-84AF-44A9-8C24-8A91DC5FCB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
